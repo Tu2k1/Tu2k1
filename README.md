@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tu2k1
+- 👋 Hi, I’m @Turki
 - 👀 I’m interested in Android Apps Development
 - 🌱 I’m currently learning Kotlin with Android
 
