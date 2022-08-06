@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Turki
-- 👀 I’m interested in Android Apps Development
+- 👀 I’m interested in Android Apps Development and AI
 - 🌱 I’m currently learning Kotlin with Android
 
 <!---
