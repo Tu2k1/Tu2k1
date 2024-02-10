@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Turki Alharbi</h1>
-<h3 align="center">A passionate backend developer from Saudi Arabia</h3>
+<h1 align="center">Hi 👋, I'm Turki</h1>
+<h3 align="center">A passionate computer science student who interested in backend development</h3>
 
-- 🌱 I’m currently learning **Laravel, Flutter and Express JS**
+- 🌱 I’m currently learning **Laravel, ASP.NET and Express.js**
 
 
 <h3 align="left">Languages and Tools:</h3>
